@@ -5,6 +5,7 @@ using System.Security.Claims;
 using System.Threading.Tasks;
 using System.Web;
 using AutoMapper;
+using IdentityMinimal.Identities;
 using IdentityServer3.AspNetIdentity;
 using IdentityServer3.Core.Configuration;
 using IdentityServer3.Core.Services;
@@ -22,7 +23,7 @@ namespace IdentityMinimal.Config
             factory.Register(new Registration<IdentityContext>(resolver => new IdentityContext(connString)));
             factory.Register(new Registration<UserStore>());
             factory.Register(new Registration<RoleStore>());
-            factory.Register(new Registration<UserManager<>>());
+            factory.Register(new Registration<UserManager>());
             factory.Register(new Registration<RoleManager>());
 
             factory.UserService = new Registration<IUserService, UserService>();

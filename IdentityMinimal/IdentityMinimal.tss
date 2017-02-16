@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\Identities\Class1.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\Identities\ClaimsFactory.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\packages.config</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>IdentityMinimal\IdentityMinimal.csproj</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\Config\UserService.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\Config\Factory.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\IdentityManager\Class1.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\IdentityManager\IdentityClaimsProvider.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\IdentityManager\SimpleIdentityManagerService.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
