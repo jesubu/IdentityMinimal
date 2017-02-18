@@ -2,31 +2,28 @@
 <ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ArrayOfArrayOfString>
     <ArrayOfString>
-      <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\Identities\Class1.cs</string>
+      <string>c:\users\fjdia\documents\githubvisualstudio\identityminimal\identityminimal\identityminimal\identities\class1.cs</string>
     </ArrayOfString>
     <ArrayOfString>
-      <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\Identities\ClaimsFactory.cs</string>
+      <string>c:\users\fjdia\documents\githubvisualstudio\identityminimal\identityminimal\identityminimal\identities\claimsfactory.cs</string>
     </ArrayOfString>
     <ArrayOfString>
-      <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\packages.config</string>
+      <string>c:\users\fjdia\documents\githubvisualstudio\identityminimal\identityminimal\identityminimal\config\factory.cs</string>
     </ArrayOfString>
     <ArrayOfString>
-      <string>IdentityMinimal\IdentityMinimal.csproj</string>
+      <string>c:\users\fjdia\documents\githubvisualstudio\identityminimal\identityminimal\identityminimal\identitymanager\class1.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\fjdia\documents\githubvisualstudio\identityminimal\identityminimal\identityminimal\identitymanager\identityclaimsprovider.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\IdentityManager\SimpleIdentityManagerService.cs</string>
     </ArrayOfString>
     <ArrayOfString>
       <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\Config\UserService.cs</string>
     </ArrayOfString>
     <ArrayOfString>
-      <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\Config\Factory.cs</string>
-    </ArrayOfString>
-    <ArrayOfString>
-      <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\IdentityManager\Class1.cs</string>
-    </ArrayOfString>
-    <ArrayOfString>
-      <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\IdentityManager\IdentityClaimsProvider.cs</string>
-    </ArrayOfString>
-    <ArrayOfString>
-      <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\IdentityManager\SimpleIdentityManagerService.cs</string>
+      <string>C:\Users\fjdia\Documents\GitHubVisualStudio\IdentityMinimal\IdentityMinimal\IdentityMinimal\Identities\IdentityContext.cs</string>
     </ArrayOfString>
   </ArrayOfArrayOfString>
 </ArrayOfArrayOfArrayOfString>

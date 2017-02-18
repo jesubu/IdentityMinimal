@@ -70,7 +70,7 @@ namespace IdentityMinimal.Config
     {
         public static AspNetIdentityUserService<User, string> Create()
         {
-            var context = new IdentityContext("KatarinaIdentityDb");
+            var context = new IdentityContext("Identity");
             var userStore = new UserStore(context);
             var userManager = new UserManager(userStore);
 

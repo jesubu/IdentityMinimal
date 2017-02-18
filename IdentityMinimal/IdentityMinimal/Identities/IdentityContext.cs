@@ -14,7 +14,7 @@ namespace IdentityMinimal.Identities
             Configuration.AutoDetectChangesEnabled = false;
         }
         public IdentityContext()
-            : base("KatarinaIdentityDb")
+            : base("Identity")
         {
             Configuration.LazyLoadingEnabled = false;
             Configuration.ProxyCreationEnabled = false;
